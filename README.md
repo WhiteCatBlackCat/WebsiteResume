@@ -1,2 +1,2 @@
 # WebsiteResume
-About Me
+My online resume directed towards tech jobs.
